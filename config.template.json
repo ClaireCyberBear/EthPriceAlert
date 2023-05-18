@@ -1,0 +1,5 @@
+{
+  "ApiKey": "REPLACE KEY HERE BETWEEN QOUTES",
+  "CheckFrequency": 30,
+  "PriceChangeThreshold": 5
+}
